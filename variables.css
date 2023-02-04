@@ -9,9 +9,9 @@
   --color-fg-base: #A6B7AB;
   --color-fg-surface: #CDD6CF;
   --color-fg-highlight: #F3F5F4;
-  --color-primary-bg: #12252E;
+  --color-primary-bg: #11252E;
   --color-primary-base: #234A5C;
-  --color-primary-fg: #356F8B;
+  --color-primary-fg: #346F8A;
   --color-secondary-bg: #2B0C17;
   --color-secondary-base: #56182F;
   --color-secondary-fg: #812446;
@@ -24,13 +24,13 @@
   --color-palette-orange: #FFBB7C;
   
   /** general */
-  --font-family: Quicksand;
+  --font-family: Iosevka;
   --display-image: block;
 
   /** surface */
-  --surface-maxWidth: 1100px;
-  --surface-shadow: 12px 12px 0px #12252E;
-  --surface-borderRadius: 0px;
+  --surface-maxWidth: 1380px;
+  --surface-shadow: 0px 0px 0px #11252E;
+  --surface-borderRadius: 26px;
 
   /** spacing */
   --space-smallest: 0.125rem;
@@ -41,5 +41,5 @@
 
   /** others */
   --picture-size: 300px;
-  --group-count: 4;
+  --group-count: 5;
 }
